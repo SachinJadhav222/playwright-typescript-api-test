@@ -12,7 +12,8 @@
     "test-post": "npx playwright test --grep @post",
     "test-delete": "npx playwright test --grep @delete",
     "test-put": "npx playwright test --grep @put",
-    "test-patch": "npx playwright test --grep @patch"
+    "test-patch": "npx playwright test --grep @patch",
+    "test-json": "npx playwright test --grep @json"
   },
   "keywords": [],
   "author": "Sachin Jadhav",
